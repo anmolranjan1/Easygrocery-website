@@ -2,7 +2,7 @@
 
 ![Easygrocery Logo](link_to_logo.png) <!-- Replace with project logo -->
 
-Welcome to the Easygrocery project! This is a grocery website developed by Team "GU_Team_11." The website aims to provide a convenient and user-friendly platform for users to shop for groceries online.
+Welcome to the Easygrocery project! This is a grocery website developed by Team "GU_FE_Team_11." The website aims to provide a convenient and user-friendly platform for users to shop for groceries online.
 
 ## Team Members
 - Anmol Ranjan (@anmolranjan1)
