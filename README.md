@@ -7,7 +7,7 @@ Welcome to the Easygrocery project! This is a grocery website developed by Team 
 ## Team Members
 - Anmol Ranjan (@anmolranjan1)
 - Ankur kumar (@ankur1072003)
-
+- Ankur kumar (@ankur1072003)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
